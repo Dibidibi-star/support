@@ -82,7 +82,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 
 | Mode    | Bed Broken | Final Kill | Win |
 |---------|------------|------------|-----|
-| Solos   | 5          | 2          | 7   |
+| Solos   | 5          | 9           | 11    |
 | Doubles | 7          | 3          | 9   |
 | Squads  | 9          | 3          | 11  |
 
