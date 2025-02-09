@@ -10,7 +10,7 @@ The credits and tiers are a yearly reward system on NetherGames with each season
 
 ## Tiers available
 
-* **Steel** (2,500 credits)
+* **Steel** (2,500 credits) aaaaaaaaaaaaaaaa
 * **Bronze** (5,000 credits)
 * **Silver** (10,000 credits)
 * **Gold** (20,000 credits)
